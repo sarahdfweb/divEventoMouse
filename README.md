@@ -9,4 +9,4 @@
 
 - Mouseover;
 - Mouseount;
-
+- Click;
